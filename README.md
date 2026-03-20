@@ -36,7 +36,7 @@ The dataset includes employee-level information such as Name, Department, Design
 5. Added slicers for dynamic filtering
 6. Designed dashboard layout
 
-### Dashboar View
+### Dashboard View
 - <a href="https://github.com/Maruf2309/Data-Analytics/blob/main/HR%20Analytics%20Dashboard.png">Dashboar View </a>
 
 7. Insights
