@@ -27,6 +27,7 @@ This project presents an interactive HR Analytics Dashboard built in Excel. It p
 5. Dataset Description
 ### Dataset
 - <a href="https://github.com/Maruf2309/Data-Analytics/blob/main/HRDataset.xlsx">Dataset View </a>
+
 The dataset includes employee-level information such as Name, Department, Designation, Employee Type, Date of Join, Gender, Salary, Working Status, and more.
 7. Steps Performed
 1. Cleaned data using Power Query
@@ -37,7 +38,7 @@ The dataset includes employee-level information such as Name, Department, Design
 6. Designed dashboard layout
 
 ### Dashboard View
-- <a href="https://github.com/Maruf2309/Data-Analytics/blob/main/HR%20Analytics%20Dashboard.png">Dashboar View </a>
+- <a href="https://github.com/Maruf2309/Data-Analytics/blob/main/HR%20Analytics%20Dashboard.png">Dashboard View </a>
 
 7. Insights
 - Majority of employees belong to specific departments
