@@ -25,14 +25,19 @@ This project presents an interactive HR Analytics Dashboard built in Excel. It p
 - Interactive filters using slicers
 
 5. Dataset Description
+### Dataset
+- <a href="https://github.com/Maruf2309/Data-Analytics/blob/main/HRDataset.xlsx">Dataset View </a>
 The dataset includes employee-level information such as Name, Department, Designation, Employee Type, Date of Join, Gender, Salary, Working Status, and more.
-6. Steps Performed
+7. Steps Performed
 1. Cleaned data using Power Query
 2. Converted date fields and created Month/Year columns
 3. Built Pivot Tables for aggregation
 4. 4. Created charts for visualization
 5. Added slicers for dynamic filtering
 6. Designed dashboard layout
+
+### Dashboar View
+- <a href="https://github.com/Maruf2309/Data-Analytics/blob/main/HR%20Analytics%20Dashboard.png">Dashboar View </a>
 
 7. Insights
 - Majority of employees belong to specific departments
